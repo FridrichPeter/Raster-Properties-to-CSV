@@ -1,0 +1,1 @@
+This tool extracts properties of raster datasets, including cell size, minimum, maximum, and value type, and stores them in a CSV file. Users can specify the input folder containing raster datasets and choose the location for the output CSV file
